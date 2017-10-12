@@ -10,7 +10,7 @@
 
     <groupId>org.dts.spell</groupId>
     <artifactId>jmyspell</artifactId>
-    <version>1.0-unitedinternet-2-SNAPSHOT</version>
+    <version>1.3-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <name>jmyspell parent</name>
